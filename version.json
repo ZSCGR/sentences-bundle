@@ -36,48 +36,6 @@
       "key": "e",
       "path": "./sentences/e.json",
       "timestamp": 1619244060721
-    },
-    {
-      "name": "网络",
-      "key": "f",
-      "path": "./sentences/f.json",
-      "timestamp": 1619244060725
-    },
-    {
-      "name": "其他",
-      "key": "g",
-      "path": "./sentences/g.json",
-      "timestamp": 1618740060803
-    },
-    {
-      "name": "影视",
-      "key": "h",
-      "path": "./sentences/h.json",
-      "timestamp": 1619064060744
-    },
-    {
-      "name": "诗词",
-      "key": "i",
-      "path": "./sentences/i.json",
-      "timestamp": 1619096460750
-    },
-    {
-      "name": "网易云",
-      "key": "j",
-      "path": "./sentences/j.json",
-      "timestamp": 1619024460770
-    },
-    {
-      "name": "哲学",
-      "key": "k",
-      "path": "./sentences/k.json",
-      "timestamp": 1619064060752
-    },
-    {
-      "name": "抖机灵",
-      "key": "l",
-      "path": "./sentences/l.json",
-      "timestamp": 1619024460771
     }
   ]
 }
