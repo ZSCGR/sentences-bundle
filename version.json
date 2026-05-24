@@ -8,34 +8,10 @@
   },
   "sentences": [
     {
-      "name": "动画",
-      "key": "a",
-      "path": "./sentences/a.json",
-      "timestamp": 1619244060706
-    },
-    {
-      "name": "漫画",
-      "key": "b",
-      "path": "./sentences/b.json",
-      "timestamp": 1619024460747
-    },
-    {
       "name": "游戏",
       "key": "c",
       "path": "./sentences/c.json",
       "timestamp": 1619244060714
-    },
-    {
-      "name": "文学",
-      "key": "d",
-      "path": "./sentences/d.json",
-      "timestamp": 1619064060716
-    },
-    {
-      "name": "原创",
-      "key": "e",
-      "path": "./sentences/e.json",
-      "timestamp": 1619244060721
     }
   ]
 }

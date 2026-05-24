@@ -1,23 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "动画",
-    "desc": "Anime - 动画",
-    "key": "a",
-    "created_at": "2020-05-15T10:48:09Z",
-    "updated_at": "2020-05-15T10:48:12Z",
-    "path": "./sentences/a.json"
-  },
-  {
-    "id": 2,
-    "name": "漫画",
-    "desc": "Comic - 漫画",
-    "key": "b",
-    "created_at": "2020-05-15T10:52:16Z",
-    "updated_at": "2020-05-15T10:52:50.929Z",
-    "path": "./sentences/b.json"
-  },
-  {
     "id": 3,
     "name": "游戏",
     "desc": "Game - 游戏",
@@ -25,23 +7,5 @@
     "created_at": "2020-05-15T10:53:35Z",
     "updated_at": "2020-05-15T10:53:38Z",
     "path": "./sentences/c.json"
-  },
-  {
-    "id": 4,
-    "name": "文学",
-    "desc": "Literature - 文学。主要收录现代文学：小说、散文、戏剧。",
-    "key": "d",
-    "created_at": "2020-05-15T10:54:46.263Z",
-    "updated_at": "2020-05-15T10:54:46.263Z",
-    "path": "./sentences/d.json"
-  },
-  {
-    "id": 5,
-    "name": "原创",
-    "desc": "Original - 原创",
-    "key": "e",
-    "created_at": "2020-05-15T10:59:39Z",
-    "updated_at": "2020-05-15T10:59:42Z",
-    "path": "./sentences/e.json"
   }
 ]
