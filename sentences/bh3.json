@@ -11,8 +11,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1468948789",
-    "length": 18,
-    "level": "A"
+    "length": 18
   },
   {
     "id": 10004,
@@ -26,8 +25,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1593567776",
-    "length": 19,
-    "level": "A"
+    "length": 19
   },
   {
     "id": 10005,
@@ -41,8 +39,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1593567797",
-    "length": 16,
-    "level": "A"
+    "length": 16
   },
   {
     "id": 10006,
@@ -56,8 +53,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1593567865",
-    "length": 24,
-    "level": "A"
+    "length": 24
   },
   {
     "id": 10007,
@@ -71,8 +67,7 @@
     "reviewer": 1044,
     "commit_from": "web",
     "created_at": "1611432033",
-    "length": 22,
-    "level": "A"
+    "length": 22
   },
   {
     "id": 10010,
@@ -86,8 +81,7 @@
     "reviewer": 4756,
     "commit_from": "web",
     "created_at": "1679187469",
-    "length": 16,
-    "level": "A"
+    "length": 16
   },
   {
     "id": 10011,
@@ -101,8 +95,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1696600227",
-    "length": 10,
-    "level": "A"
+    "length": 10
   },
   {
     "id": 10014,
@@ -116,8 +109,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 24,
-    "level": "A"
+    "length": 24
   },
   {
     "id": 10015,
@@ -131,8 +123,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 31,
-    "level": "A"
+    "length": 31
   },
   {
     "id": 10020,
@@ -146,8 +137,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 23,
-    "level": "A"
+    "length": 23
   },
   {
     "id": 10021,
@@ -161,8 +151,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 24,
-    "level": "A"
+    "length": 24
   },
   {
     "id": 10022,
@@ -176,8 +165,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 24,
-    "level": "A"
+    "length": 24
   },
   {
     "id": 10024,
@@ -191,8 +179,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 21,
-    "level": "A"
+    "length": 21
   },
   {
     "id": 10026,
@@ -206,8 +193,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 31,
-    "level": "A"
+    "length": 31
   },
   {
     "id": 10027,
@@ -221,8 +207,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 28,
-    "level": "A"
+    "length": 28
   },
   {
     "id": 10029,
@@ -236,8 +221,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 24,
-    "level": "A"
+    "length": 24
   },
   {
     "id": 10030,
@@ -251,8 +235,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 28,
-    "level": "A"
+    "length": 28
   },
   {
     "id": 10173,
@@ -266,8 +249,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 20,
-    "level": "B"
+    "length": 20
   },
   {
     "id": 10322,
@@ -281,8 +263,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 33,
-    "level": "C"
+    "length": 33
   },
   {
     "id": 10326,
@@ -296,8 +277,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 24,
-    "level": "C"
+    "length": 24
   },
   {
     "id": 10329,
@@ -311,7 +291,6 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637189",
-    "length": 28,
-    "level": "C"
+    "length": 28
   }
 ]
