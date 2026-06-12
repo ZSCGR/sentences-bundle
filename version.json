@@ -1,35 +1,35 @@
 {
   "protocol_version": "1.0.1",
-  "bundle_version": "1.0.400",
-  "updated_at": 1735113819845,
+  "bundle_version": "1.0.426",
+  "updated_at": 1781257300000,
   "categories": {
     "path": "./categories.json",
-    "timestamp": 1597712000881
+    "timestamp": 1781257300000
   },
   "sentences": [
     {
       "name": "崩坏3",
       "key": "bh3",
       "path": "./sentences/bh3.json",
-      "timestamp": 1779959762000
+      "timestamp": 1781257300000
     },
     {
       "name": "崩坏：星穹铁道",
       "key": "sr",
       "path": "./sentences/sr.json",
-      "timestamp": 1779959762000
+      "timestamp": 1781257300000
     },
     {
       "name": "原神",
       "key": "gs",
       "path": "./sentences/gs.json",
-      "timestamp": 1779959762000
+      "timestamp": 1781257300000
     },
     {
       "name": "明日方舟",
       "key": "ark",
       "path": "./sentences/ark.json",
-      "timestamp": 1779959762000
+      "timestamp": 1781257300000
     }
   ]
 }
