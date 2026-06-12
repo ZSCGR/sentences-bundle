@@ -8,10 +8,28 @@
   },
   "sentences": [
     {
-      "name": "游戏",
-      "key": "c",
-      "path": "./sentences/c.json",
-      "timestamp": 1619244060714
+      "name": "崩坏3",
+      "key": "bh3",
+      "path": "./sentences/bh3.json",
+      "timestamp": 1779959762000
+    },
+    {
+      "name": "崩坏：星穹铁道",
+      "key": "sr",
+      "path": "./sentences/sr.json",
+      "timestamp": 1779959762000
+    },
+    {
+      "name": "原神",
+      "key": "gs",
+      "path": "./sentences/gs.json",
+      "timestamp": 1779959762000
+    },
+    {
+      "name": "明日方舟",
+      "key": "ark",
+      "path": "./sentences/ark.json",
+      "timestamp": 1779959762000
     }
   ]
 }
