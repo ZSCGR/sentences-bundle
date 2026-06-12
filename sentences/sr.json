@@ -504,7 +504,7 @@
     "length": 20
   },
   {
-    "id": 20240,
+    "id": 20036,
     "uuid": "5cd9498d-c1d4-4373-85b2-ff1d44c9943a",
     "hitokoto": "扔下多余的烦恼，把笑容和决心一起打包，带向明天♪。",
     "type": "c",
@@ -518,7 +518,7 @@
     "length": 25
   },
   {
-    "id": 20322,
+    "id": 20037,
     "uuid": "6bc6dfdc-940d-4aeb-9248-c71f2ea0325c",
     "hitokoto": "凡人的生与死，本就不该被任何意志主宰。",
     "type": "c",
@@ -529,6 +529,6 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1779637380",
-    "length": 21
+    "length": 19
   }
 ]
